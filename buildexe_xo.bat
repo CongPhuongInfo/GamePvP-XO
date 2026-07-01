@@ -23,7 +23,7 @@ echo.
   /reference:System.dll ^
   /reference:System.Drawing.dll ^
   /reference:System.Windows.Forms.dll ^
-  XOOnline.vb
+  XOOnline.vb NetworkPeer.vb
 
 echo.
 if exist XOOnline.exe (
