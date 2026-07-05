@@ -1,7 +1,7 @@
 # XO Online (Caro 10x10)
 
 <p align="center">
-  <img src="GameBomb-Logo.png" width="800">
+  <img src="GameXO.png" width="800">
 </p>
 
 Trò chơi Cờ Caro (Gomoku/XO kiểu 5-nối) trên bàn cờ 10x10, hỗ trợ chơi
